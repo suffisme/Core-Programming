@@ -11,7 +11,7 @@
 //whenever ll is used long long would be initialised
 using namespace std;
 
-void subset(vector<ll>a)
+void Printsubset(vector<ll>a)
 {
     ll s=a.size();
     ll l=pow(2,s);
@@ -34,12 +34,12 @@ int main()
     vector<ll>a;
     ll n,k;
     cin>>n;
-    for(int i=0;i<n;i++)
+    for(ll i=0;i<n;i++)
     {
         cin>>k;
         a.push_back(k);
     }
 
-    subset(a);
+    Printsubset(a);
     return 0;
 }
