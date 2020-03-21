@@ -1,10 +1,14 @@
+//required header files
 #include <iostream>
 #include<vector>
 #include<cmath>
+
+
+//include this to include all
 #include<bits/stdc++.h>
 
 #define ll long long
-
+//whenever ll is used long long would be initialised
 using namespace std;
 
 void subset(vector<ll>a)
