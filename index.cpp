@@ -1,7 +1,7 @@
 //required header files
-#include <iostream>
-#include<vector>
-#include<cmath>
+#include <iostream> //std cin cout
+#include<vector>    //vector STL
+#include<cmath>     //for power function
 
 
 //include this to include all
