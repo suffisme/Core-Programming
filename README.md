@@ -1,7 +1,7 @@
 ## FindingSubsets
 #
 ##### It prints the subsets of the given array
-
+#
 ### INPUT : 
 #### 1st Line : Size of Set
 #### 2nd Ling : Array element separated by spaces
