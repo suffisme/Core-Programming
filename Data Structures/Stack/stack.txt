@@ -1,0 +1,61 @@
+$t@ck ----  is a datastructure in which elements can be added or removed from top
+
+push() -- function to push element into a stack
+
+void push(int stack[] , int x, int n)
+	{
+		if (top == n-1)
+		{ //If the top position is the last position of position in a stack , this means that stack is full
+			cout<<"Stack overflow i.e. Stack is full"<<endl;
+		}
+
+		else
+		{
+			top = top +1;
+			stack[top] = x;
+		}
+	}
+
+
+
+
+
+pop() removes the element from the top of stack
+
+void pop(int stack [] , int n)
+	{
+		if (isEmpty())
+		{
+			cout<<"Stack underflow i.e. Stack is empty !"<<endl;
+		else
+		{
+			top = top-1;
+			//Decrementing top's position will detach last element from stack 	
+		}
+	}
+
+
+
+
+int topElement ()
+	{
+		return stack[top];
+	}
+
+
+bool isEmpty()
+{
+	if (top == -1) //Stack is empty
+		return true;
+	else return false;
+}
+
+
+int size()
+{
+	return top+1;
+}
+
+
+
+
