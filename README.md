@@ -3,9 +3,10 @@
 A repository that will cover almost all concepts in core programming
 
 ## Programming Languages :
-    C
-    C++
-    Python 3
+- C
+- C++
+- Python 3
+	- Jupyter Notebook
     
  
 
