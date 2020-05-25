@@ -1,5 +1,3 @@
-# Algorithms
-
 A repository that will cover almost all concepts in core programming
 
 ## Programming Languages :
