@@ -25,5 +25,12 @@ A repository that will cover almost all concepts in core programming
     Learn how to code in Python (all concepts of core interpreter covered)
     
     Get Exposure to use of Python in various fields
+    
+    
+    
+_*Both [PyVerse.git](https://github.com/suffisme/PyVerse) and [Core-programming.git](https://github.com/suffisme/Core-Programming) are maintained by:*_
+    
+####   [Sufiyan Ansari](https://github.com/suffisme) && [Anshuman Mishra](https://github.com/shivanshuman021)
+
 
 
