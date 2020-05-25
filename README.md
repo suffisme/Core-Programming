@@ -10,5 +10,20 @@ A repository that will cover almost all concepts in core programming
  
 
 ### Highlights :
+   
+ $ [Asymptotic Analysis](https://github.com/suffisme/Core-Programming/tree/master/Asymptotic%20Analysis) - (Jupyter Notebook) Visualization of growth rate using Matplotlib.pyplot
+
+ $ [Algorithms](https://github.com/suffisme/Core-Programming/tree/master/Algorithms)
+
+ $ [Data Structures](https://github.com/suffisme/Core-Programming/tree/master/Data%20Structures)
+
+ $ [Windows](https://github.com/suffisme/Core-Programming/tree/master/Windows) - contains useful utilities/programs for OS , comes handy 
+   
+
+### Go to this repository : [PyVerse](https://github.com/suffisme/PyVerse) , to dive in the world of Python where you will:
     
-   Go to this repository : [PyVerse](https://github.com/suffisme/PyVerse) , for many tutorials and many Python related stuffs
+    Learn how to code in Python (all concepts of core interpreter covered)
+    
+    Get Exposure to use of Python in various fields
+
+
