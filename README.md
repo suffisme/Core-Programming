@@ -30,5 +30,5 @@ _*Both [PyVerse.git](https://github.com/suffisme/PyVerse) and [Core-programming.
     
 ####   [Sufiyan Ansari](https://github.com/suffisme) && [Anshuman Mishra](https://github.com/shivanshuman021)
 
-
+![](src/maintainers.jpeg)
 
