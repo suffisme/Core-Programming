@@ -1,4 +1,4 @@
-A repository that will cover almost all concepts in core programming
+A repository that will cover almost all concepts in core programming [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/suffisme/Core-programming/graphs/commit-activity)
 
 ## Programming Languages :
 - C
