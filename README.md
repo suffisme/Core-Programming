@@ -1,4 +1,6 @@
-A repository that will cover almost all concepts in core programming [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/suffisme/Core-programming/graphs/commit-activity)
+A repository that will cover almost all concepts in core programming 
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/suffisme/Core-programming/graphs/commit-activity)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Programming Languages :
 - C
